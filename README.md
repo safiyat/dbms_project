@@ -22,7 +22,7 @@ Satisfy all the above pre-requisites, then
 
     Setup the database:
         Create a database in your MySQL DBMS by the name dbms_project (or any other name, as specified in settings.py, line 15).
-        Provide the user and password in the same file, (line no. 17, 18).
+        Provide the user and password to the database in the same file, (line no. 17, 18).
 
     Sync your django project with the database as:
         $ python manage.py syncdb
