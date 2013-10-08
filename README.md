@@ -10,6 +10,7 @@ Setting up the Environment
 ==========================
 
 The development is being done using
+
     Python 2.7.5 (http://www.python.org/download/releases/2.7.5/)
     Django 1.5.1 (https://pypi.python.org/pypi/Django/1.5.1)
     MySQL 5.5.32 (http://dev.mysql.com/downloads/mysql/5.5.html)
