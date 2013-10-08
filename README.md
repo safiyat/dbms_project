@@ -15,7 +15,7 @@ The development is being done using
     Django 1.5.1 (https://pypi.python.org/pypi/Django/1.5.1)
     MySQL 5.5.32 (http://dev.mysql.com/downloads/mysql/5.5.html)
     MySQL-python 1.2.4 (https://pypi.python.org/pypi/MySQL-python)
-    Django Registration 1 (https://pypi.python.org/pypi/django-registration)
+    Django Registration 1.0 (https://pypi.python.org/pypi/django-registration)
 
     
 Satisfy all the above pre-requisites, then
